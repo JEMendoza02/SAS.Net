@@ -7,8 +7,6 @@
     <link rel="stylesheet" href="styles.css">
     <%@ Page Language="C#" AutoEventWireup="true" CodeFile="Conexion.cs" Inherits="Conexion" %>
 
-
-
 </head>
 <body>
     <div class="container">

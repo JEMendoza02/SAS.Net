@@ -37,6 +37,11 @@ header h1 {
     font-size: 24px;
 }
 
+body a{
+    color: black;
+    text-decoration: none;
+}
+
 .search-bar {
     display: flex;
 }
